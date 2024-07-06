@@ -21,6 +21,7 @@ ORDER BY c DESC
 SELECT total 
 FROM invoice
 ORDER BY total DESC
+LIMIT 3
 
 
 /* Q4: Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. 
